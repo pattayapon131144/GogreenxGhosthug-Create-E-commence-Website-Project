@@ -1,2 +1,0 @@
-# GogreenxGhosthug
-Project DSI202
